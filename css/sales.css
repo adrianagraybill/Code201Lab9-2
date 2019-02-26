@@ -1,3 +1,22 @@
+header, main, article{
+    padding-bottom: 30px;
+}
+
+header ul {
+    text-align: center;
+    border: 1px solid #ffffff;
+    background-color: #ffffff;
+  }
+  
+header li a {
+    color: #666;
+    padding: 50px 50px 50px 5px;
+  }
+  
+header li {
+    display: inline;
+  }
+
 th {
     background: rgb(85, 85, 85);
     padding: 15px;
