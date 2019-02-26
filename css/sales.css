@@ -8,12 +8,12 @@ header ul {
     background-color: #ffffff;
   }
   
-header li a {
+  header li a {
     color: #666;
-    padding: 50px 50px 50px 5px;
+    padding: 50px 50px 50px 50px;
   }
   
-header li {
+  header li {
     display: inline;
   }
 
